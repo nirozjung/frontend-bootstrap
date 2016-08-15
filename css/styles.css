@@ -38,6 +38,9 @@ body{
 .navbar-inverse {
      background: #303F9F;
 }
+.nav-text{
+    font-color: white;
+}
 
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
